@@ -8,7 +8,7 @@ I built a fully functional **Tic-Tac-Toe** game using **HTML**, **CSS**, and **J
 
 ## 🌐 Live Game
 
-🔗 [Play the Game](https://bhumitanwar123.github.io/PRODIGY_WD_03/)  
+🔗 [Play the Game](🔗 https://bhumitanwar123.github.io/PRODIGY_WD_03/)  
 📁 [View GitHub Repo](https://github.com/bhumitanwar123/PRODIGY_WD_03)
 
 ---
